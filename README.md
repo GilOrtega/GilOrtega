@@ -2,6 +2,7 @@
 - 🔬 This is what I'm good at:
 - JAVA
 - SQL
+- C
 - HTML
 - CSS
 - UNITY
