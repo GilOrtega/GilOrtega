@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @GilOrtega
 - 🔬 This is what I'm good at:
--JAVA
--SQL
--HTML
--CSS
--UNITY
+- JAVA
+- SQL
+- HTML
+- CSS
+- UNITY
 - 👀 I’m interested in everything that has to do with software
 - 🌱 I’m currently learning SQL and increasing my knowledge in JAVA
 - 💞️ I’m looking to collaborate on large companies
